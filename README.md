@@ -43,3 +43,9 @@ The detail of processing
   7.1向目标机器发送收集内存信息脚本
   7.2启动收集内存信息脚本
 8.解析nmon结果
+
+=======================windows_script========================
+windows bat script include two file (startup.bat setEnv.bat).
+startup.bat is boot script
+setEnv.bat to set and check enviroment in which the needed vars
+whether or not have been setted 
